@@ -1,4 +1,4 @@
 logging:
   level:
-    com.example.cloud.config.client: TRACE
-test: test
+    com.example.cloud.config.client: ERROR
+test: test2
