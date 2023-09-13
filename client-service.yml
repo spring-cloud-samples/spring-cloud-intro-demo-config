@@ -3,4 +3,4 @@ logging:
     com.example.cloud.config.client: TRACE
 test: test
 
-test2: test
+test2: testX
