@@ -7,9 +7,9 @@ logging:
 
 test: test
 
-test2: testY
+test2: testN
 
-prop: prop
+prop: propN
 
 simple:
-  test-x: testX
+  test-x: testN
