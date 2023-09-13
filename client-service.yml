@@ -8,3 +8,6 @@ logging:
 test: test
 
 test2: testY
+
+simple:
+  test-x: testX
