@@ -7,7 +7,7 @@ logging:
 
 test: test
 
-test2: testN
+test2: testNN
 
 prop: propN
 
