@@ -3,7 +3,7 @@ logging:
     com.example.cloud.config.client: TRACE
     com:
       example:
-        configclientdemo: DEBUG
+        configclientdemo: INFO
 
 test: test
 
