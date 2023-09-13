@@ -1,6 +1,10 @@
 logging:
   level:
     com.example.cloud.config.client: TRACE
+    com:
+      example:
+        configclientdemo: DEBUG
+
 test: test
 
 test2: testX
